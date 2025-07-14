@@ -6,7 +6,7 @@
 <div align="center">
 
 🎯 **Disponible para proyectos freelance y colaboraciones**  
-📄 [Ver CV](#) &nbsp; | &nbsp; ✉️ [Contáctame](mailto:tu-correo@ejemplo.com)  
+📄 [Ver CV](https://hzdmastery.netlify.app/assets/cv-esp.pdf) &nbsp; | &nbsp; ✉️ [Contáctame](mailto:alonsohdz67@gmail.com)  
 </div>
 
 ---
@@ -49,28 +49,28 @@ CRS SOCIEDAD CORREDORA DE SEGUROS S.A
 ### Portal Web CRS SALVADOR / PANAMÁ
 > Plataforma web corporativa para gestión de pólizas, beneficiarios, notificaciones y más.  
 **React**, **Tailwind**, **.Net**, **SQL Server**, **C#**  
-[Ver proyecto](#)
+[Ver proyecto](https://consultas.crsseguros.com.pa/)
 
 ---
 
 ### App móvil CRS SALVADOR / PANAMÁ
 > App móvil corporativa con gestión de pólizas, notificaciones y beneficiarios.  
 **React Native**, **NativeWind**, **.Net**, **SQL Server**, **C#**  
-[Ver proyecto](#)
+[Ver proyecto](https://apps.apple.com/us/app/crs-panam%C3%A1/id6499171475)
 
 ---
 
 ### App de uso interno CRS Costa Rica
 > App móvil para agendar rutas, geolocalización, manejo de trámites y notificaciones.  
 **Astro**, **Tailwind**, **CSS**  
-[Ver proyecto](#)
+[Ver proyecto](https://apps.apple.com/cr/app/app-crs-tools/id6667120965?platform=iphone)
 
 ---
 
 ### ZURL Acortador de enlaces
 > Plataforma para crear y gestionar enlaces cortos, con estadísticas de clics.  
 **NextJs**, **Tailwind**, **Typescript**, **React**  
-[Ver proyecto](#)
+[Ver proyecto](https://www.zurl.es/)
 
 ---
 
@@ -135,9 +135,9 @@ Estoy disponible para proyectos freelance, colaboraciones y retos tecnológicos.
 
 <div align="center">
 
-📄 [Ver CV](#)  
-🔗 [LinkedIn](#)  
-✉️ [Correo electrónico](mailto:tu-correo@ejemplo.com)
+📄 [Ver CV](https://hzdmastery.netlify.app/assets/cv-esp.pdf)  
+🔗 [LinkedIn](https://www.linkedin.com/in/alonso-hdz/)  
+✉️ [Correo electrónico](mailto:alonsohdz67@gmail.com)
 
 </div>
 
